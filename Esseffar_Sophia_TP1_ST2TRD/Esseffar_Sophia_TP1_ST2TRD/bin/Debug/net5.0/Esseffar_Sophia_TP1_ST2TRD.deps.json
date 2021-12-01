@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Esseffar_Sophia_TP1_ST2TRD/1.0.0": {
+        "runtime": {
+          "Esseffar_Sophia_TP1_ST2TRD.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Esseffar_Sophia_TP1_ST2TRD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

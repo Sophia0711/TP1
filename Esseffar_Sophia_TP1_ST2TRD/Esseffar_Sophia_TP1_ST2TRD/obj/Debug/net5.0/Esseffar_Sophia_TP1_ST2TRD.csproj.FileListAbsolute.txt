@@ -1,0 +1,16 @@
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.exe
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.deps.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.runtimeconfig.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.runtimeconfig.dev.json
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\ref\Esseffar_Sophia_TP1_ST2TRD.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\bin\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.pdb
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.csproj.AssemblyReference.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.AssemblyInfoInputs.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.AssemblyInfo.cs
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\ref\Esseffar_Sophia_TP1_ST2TRD.dll
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.pdb
+C:\Users\rayan\Desktop\S9\Trading\TP\Esseffar_Sophia_TP1_ST2TRD\Esseffar_Sophia_TP1_ST2TRD\obj\Debug\net5.0\Esseffar_Sophia_TP1_ST2TRD.genruntimeconfig.cache
